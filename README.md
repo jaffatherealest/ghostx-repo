@@ -26,7 +26,7 @@ If you use another host, upload the whole directory so `Packages`, `Packages.gz`
 From `ghostx/`:
 
 ```sh
-cp dist/com.sgwc.ghostx_0.6.0_iphoneos-arm64.deb repo/debs/
+cp dist/com.sgwc.ghostx_0.6.1_iphoneos-arm64.deb repo/debs/
 cd repo
 dpkg-scanpackages debs /dev/null > Packages
 gzip -kf Packages
