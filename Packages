@@ -1,0 +1,15 @@
+Package: com.sgwc.ghostx
+Version: 0.6.0
+Architecture: iphoneos-arm64
+Maintainer: GhostX research
+Depends: firmware (>= 15.0), ellekit (>= 1.0), preferenceloader
+Filename: debs/com.sgwc.ghostx_0.6.0_iphoneos-arm64.deb
+Size: 33740
+MD5sum: 00a4432d74892f0d946f141773b465f1
+SHA1: 6ea0cae9e32bc5bea59dae8dd59931d06ad8b421
+SHA256: f9ec998d6bc6c423e611f37b6fd2d093562054303d841fc00129f63b1e369d6f
+Section: Tweaks
+Description: Per-container device-surface normalizer for X under Crane. Research build.
+Author: GhostX research
+Name: GhostX
+
